@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sanvir28
-- 👀 I’m interested in Cybersecurity and Pentesting
+- 👀 I’m interested in Cybersecurity, Pentesting, 3D Printing, Engineering, and more!
 - 🌱 I’m currently learning Python, HTML, Kali Linux, CMD
 - 📫 How to reach me: sanvir2010@gmail.com
 - 😄 Pronouns: he/his/him
